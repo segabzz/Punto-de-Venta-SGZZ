@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767190275648",
+    "project_id": "proyecto-tpa-zertuche",
+    "storage_bucket": "proyecto-tpa-zertuche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767190275648:android:3f572972db46a03474f1a5",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_tpa_zertuche"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIQtkLcAPAtUFGYOTpDsVJoF3QxZNBl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
